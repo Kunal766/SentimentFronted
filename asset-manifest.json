@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Kunal766/SentimentFronted/static/css/main.0bda85d7.css",
-    "main.js": "/Kunal766/SentimentFronted/static/js/main.17ed2ebe.js",
-    "static/js/787.c1112931.chunk.js": "/Kunal766/SentimentFronted/static/js/787.c1112931.chunk.js",
-    "static/media/happy.gif": "/Kunal766/SentimentFronted/static/media/happy.0cd43401755751d8aeb2.gif",
-    "static/media/sad.gif": "/Kunal766/SentimentFronted/static/media/sad.c29f743a4e5581b28821.gif",
-    "index.html": "/Kunal766/SentimentFronted/index.html",
-    "main.0bda85d7.css.map": "/Kunal766/SentimentFronted/static/css/main.0bda85d7.css.map",
-    "main.17ed2ebe.js.map": "/Kunal766/SentimentFronted/static/js/main.17ed2ebe.js.map",
-    "787.c1112931.chunk.js.map": "/Kunal766/SentimentFronted/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/SentimentFronted/static/css/main.0bda85d7.css",
+    "main.js": "/SentimentFronted/static/js/main.73d97a47.js",
+    "static/js/787.c1112931.chunk.js": "/SentimentFronted/static/js/787.c1112931.chunk.js",
+    "static/media/happy.gif": "/SentimentFronted/static/media/happy.0cd43401755751d8aeb2.gif",
+    "static/media/sad.gif": "/SentimentFronted/static/media/sad.c29f743a4e5581b28821.gif",
+    "index.html": "/SentimentFronted/index.html",
+    "main.0bda85d7.css.map": "/SentimentFronted/static/css/main.0bda85d7.css.map",
+    "main.73d97a47.js.map": "/SentimentFronted/static/js/main.73d97a47.js.map",
+    "787.c1112931.chunk.js.map": "/SentimentFronted/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bda85d7.css",
-    "static/js/main.17ed2ebe.js"
+    "static/js/main.73d97a47.js"
   ]
 }
